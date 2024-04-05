@@ -11,12 +11,7 @@ This Library System Management project is a terminal-based Java application desi
 - **Loan Management:** Users can borrow and return books, with the system keeping track of each transaction.
 - **Loan History:** Maintains a history of all book loans and returns.
 
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed:
-- Java JDK 11 or higher
+## How to Use
 
 ### Installation
 
