@@ -11,25 +11,6 @@ This Library System Management project is a terminal-based Java application desi
 - **Loan Management:** Users can borrow and return books, with the system keeping track of each transaction.
 - **Loan History:** Maintains a history of all book loans and returns.
 
-## How to Use
-
-### Installation
-
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-
-### Running the Application
-
-1. Compile the Java files:
-   ```bash
-   javac Main.java
-   ```
-2. Run the compiled application:
-   ```bash
-   java Main
-   ```
-
-
 ### Usage
 Upon running the application, users will be greeted with a menu prompting them to register or login. Once that is done, users can perform actions such as looking up books, borrowing, and returning books.
 
